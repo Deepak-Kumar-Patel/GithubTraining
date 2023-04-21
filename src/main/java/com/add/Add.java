@@ -8,7 +8,7 @@ public class Add {
     }
     public long add2(long one, long two){
         System.out.println(one);
-        long  l = one + two + 22;
+        long  l = one + two + 11;
         return l;
     }
 }
